@@ -1,7 +1,7 @@
 {
   "name": "Moon Lambo",
   "description": "A sleek Lamborghini designed for lunar racing, crashing into enemies with style. Vroom vroom, straight to the moon—and your face!",
-  "image": "4.png",
+  "image": "4.jpg",
   "attributes": [
     {
       "trait_type": "Damage Range",
