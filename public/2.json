@@ -1,0 +1,19 @@
+{
+  "name": "Glitter Pepe",
+  "description": "A sparkling Pepe the Frog holding a rare, explosive NFT orb. This weapon shines as bright as your portfolio on a bull run!",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "Damage Range",
+      "value": "10-30"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Flavor",
+      "value": "Rare and explosive, just like my NFT."
+    }
+  ]
+}

@@ -8,31 +8,6 @@ import {
   useClose,
 } from "@coinbase/onchainkit/minikit";
 
-// Define FrameContext as provided
-interface FrameContext {
-  user: {
-    fid: number;
-    username?: string;
-    displayName?: string;
-    pfpUrl?: string;
-  };
-  location?: unknown;
-  client: {
-    clientFid: number;
-    added: boolean;
-    safeAreaInsets?: {
-      top: number;
-      bottom: number;
-      left: number;
-      right: number;
-    };
-    notificationDetails?: {
-      url: string;
-      token: string;
-    };
-  };
-}
-
 // Define game-specific interfaces
 interface Weapon {
   name: string;

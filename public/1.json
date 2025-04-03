@@ -1,0 +1,19 @@
+{
+  "name": "Laser Shiba",
+  "description": "A fierce Shiba Inu wielding a futuristic laser gun, ready to zap opponents in a cyberpunk showdown. Woof woof, you’re broke!",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Damage Range",
+      "value": "10-30"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Flavor",
+      "value": "Woof woof, you’re broke!"
+    }
+  ]
+}

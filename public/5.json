@@ -1,0 +1,19 @@
+{
+  "name": "Dancing Vitalik",
+  "description": "Vitalik Buterin busts a move with a disco-powered attack, smart contracts included. Smart contract this, punk!",
+  "image": "5.png",
+  "attributes": [
+    {
+      "trait_type": "Damage Range",
+      "value": "10-30"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Flavor",
+      "value": "Smart contract this, punk!"
+    }
+  ]
+}

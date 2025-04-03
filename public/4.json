@@ -1,0 +1,19 @@
+{
+  "name": "Moon Lambo",
+  "description": "A sleek Lamborghini designed for lunar racing, crashing into enemies with style. Vroom vroom, straight to the moon—and your face!",
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "Damage Range",
+      "value": "10-30"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Flavor",
+      "value": "Vroom vroom, straight to the moon—and your face."
+    }
+  ]
+}

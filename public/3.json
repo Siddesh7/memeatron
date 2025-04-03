@@ -1,0 +1,19 @@
+{
+  "name": "Doge Slingshot",
+  "description": "Doge takes aim with a slingshot loaded with a moon rock, ready to launch your opponents into orbit. Much damage, wow!",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Damage Range",
+      "value": "10-30"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Flavor",
+      "value": "Much damage, wow!"
+    }
+  ]
+}
