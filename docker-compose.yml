@@ -1,0 +1,14 @@
+version: "3"
+services:
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    environment:
+      - REDIS_PASSWORD=your_password
+    volumes:
+      - redis_data:/data
+    command: redis-server --requirepass your_password
+
+volumes:
+  redis_data:
